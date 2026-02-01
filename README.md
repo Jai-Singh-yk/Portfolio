@@ -1,8 +1,6 @@
 #  🗺 Jai Singh's Data Portfolio
 
-Welcome to my data portfolio!
-
-This repository provides a curated overview of my **end-to-end data projects**, covering **Excel, SQL, Power BI, and Tableau**. Each project focuses on transforming raw data into **clear, actionable insights** through analysis, visualization, and storytelling.
+Welcome to my data portfolio! Here I showcase the pojects i have worked on 
 
 ---
 
